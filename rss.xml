@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Priya Mann]]></title>
         <description><![CDATA[Priya Mann]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/priya-mann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 22:03:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 22:06:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/priya-mann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Financial Security Adviser - 416-455-4040</p>]]></description>
+            <link>https://thegrid.ai/priya-mann/be41b3e0-be77-497b-9e9f-e5a485d9818c/index.html</link>
+            <guid isPermaLink="false">be41b3e0-be77-497b-9e9f-e5a485d9818c</guid>
+            <pubDate>Mon, 07 Mar 2016 22:05:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Priya Mann</p>]]></description>
-            <link>undefined20c44aec-7bb6-4d5b-98a3-f033e6fbcc53/index.html</link>
+            <link>https://thegrid.ai/priya-mann/20c44aec-7bb6-4d5b-98a3-f033e6fbcc53/index.html</link>
             <guid isPermaLink="false">20c44aec-7bb6-4d5b-98a3-f033e6fbcc53</guid>
             <pubDate>Mon, 07 Mar 2016 22:03:17 GMT</pubDate>
         </item>
